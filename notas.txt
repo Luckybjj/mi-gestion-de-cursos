@@ -1,0 +1,5 @@
+.-Comandos instalación de paquetes
+npm init -y
+npm i --save pg
+npm i express --save
+npm i --save body-parser
